@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/style.scss"],"names":[],"mappings":"AAAA;EACC;EACA;EACA","file":"dist/style.css","sourcesContent":["body {\n\tpadding: 10px 10%;\n\tfont-family: sans-serif;\n\tcolor: #333;\n}\n\n"],"sourceRoot":""}
